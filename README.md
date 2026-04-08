@@ -5,6 +5,8 @@ A learning repository focused on applying Root Cause Analysis (RCA) and structur
 
 [Critical Thinking and Sound Judgement](https://alison.com/topic/learn/152783/learning-outcomes)
 
+[Logic, Reasoning and Resolution Refutation](https://alison.com/topic/learn/150626/learning-outcomes)
+
 [Root Cause Analysis Tools and Techniques](https://alison.com/topic/learn/169917/learning-outcomes)
 
 [Becoming a Level 1 Intelligence Analyst](https://alison.com/topic/learn/138559/learning-outcomes)
